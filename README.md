@@ -10,7 +10,7 @@
 
 ### Contact
 
-[<img src="https://img.shields.io/badge/thiago-barbosa?&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thiago-barbosa1999/)
+[[<img src="https://img.shields.io/badge/thiago-barbosa?&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thiago-barbosa1999/)](https://www.linkedin.com/in/thiago-barbosa1999/)
 
 ![Static Badge](https://img.shields.io/badge/thiago--barbosa--1999-0?style=social&logo=linkedin&logoColor=blue&labelColor=blue&color=blue)
 
