@@ -10,7 +10,7 @@
 
 ### Contact
 
-<img src="https://img.shields.io/badge/thiago-barbosa?&logo=linkedin&logoColor=white" />
+[<img src="https://img.shields.io/badge/thiago-barbosa?&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thiago-barbosa1999/)
 [![thiago-barbosa-1999](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-barbosa1999/)
 
 [![Email](https://img.shields.io/badge/Email-Enviar%20mensagem-yello?style=flat-square&logo=gmail&logoColor=white)](thiago:thiagon16@hotmail.com)
