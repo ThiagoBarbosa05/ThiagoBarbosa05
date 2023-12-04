@@ -12,7 +12,7 @@
 
 [<img src="https://img.shields.io/badge/thiago-barbosa?&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thiago-barbosa1999/)
 
-![Static Badge](https://img.shields.io/badge/thiagobarbosa1999-0?style=social&logo=linkedin&logoColor=white&labelColor=blue&color=blue)
+![Static Badge](https://img.shields.io/badge/thiago--barbosa--1999-0?style=social&logo=linkedin&logoColor=white&labelColor=blue&color=blue)
 
 
 [![thiago-barbosa-1999](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-barbosa1999/)
