@@ -27,7 +27,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42px" />
-<img src="https://fastify.dev/img/logos/fastify-white.svg" width="42px" />
+<img src="https://seeklogo.com/images/F/fastify-logo-370DF51F2E-seeklogo.com.png" width="84px" />
 
 
 </div>
