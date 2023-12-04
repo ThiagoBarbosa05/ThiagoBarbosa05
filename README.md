@@ -28,9 +28,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42px" />
 <img src="https://seeklogo.com/images/F/fastify-logo-370DF51F2E-seeklogo.com.png" width="84px" />
-<img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Preview-Prisma-DarkSymbol.png" width="84px" />
-
-
 </div>
 
 
