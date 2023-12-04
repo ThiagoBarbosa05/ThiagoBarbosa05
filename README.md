@@ -9,4 +9,4 @@
 - 💬 Ask me about HTML, CSS, React, Next, TailwindCSS.
 
 ### Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-barbosa1999/)
+[![thiago-barbosa-1999](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-barbosa1999/)
