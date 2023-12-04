@@ -10,3 +10,5 @@
 
 ### Contact
 [![thiago-barbosa-1999](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-barbosa1999/)
+
+[![Email](https://img.shields.io/badge/Email-Enviar%20mensagem-yellow?style=flat-square&logo=gmail&logoColor=white)](mailto:seu@email.com)
