@@ -13,4 +13,4 @@
 [![Static Badge](https://img.shields.io/badge/Thiago_Barbosa-0?style=social&logo=linkedin&logoColor=blue&labelColor=blue&color=blue)](https://www.linkedin.com/in/thiago-barbosa1999/)
 
 
-[![Email](https://img.shields.io/badge/Email-Enviar%20mensagem-yello?style=flat-square&logo=gmail&logoColor=white)](thiago:thiagon16@hotmail.com)
+![Static Badge](https://img.shields.io/badge/thiagon16%40hotmail.com?style=social&logo=twitter&logoColor=white&labelColor=blue&color=blue)
