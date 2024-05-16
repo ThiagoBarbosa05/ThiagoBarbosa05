@@ -1,32 +1,52 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Thiago Barbosa and my nickname is "ThiagoBarbosa05"!
+
+# Olá, eu sou o Thiago! 👋
+
+
+## 🚀 Sobre mim
+Eu sou uma pessoa desenvolvedora full-stack com conhecimento sólido na stack javascript/typescript, usando ferramentas atuais e consolidadas no mercado entregando uma aplicação altamente performática e escalável. Estou em constante aprendizagem, sempre buscando novas tecnologias e novas formas de desenvolvimento.
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-barbosa1999/)
 
 
 
-- 🌱 I’m currently learning about back-end development using the SOLID object-oriented programming principle.
-- 👯 I'm looking to collaborate with those who are passionate about technology and are always looking to evolve by learning new technologies.
-- 💬 Ask me about HTML, CSS, React, Next, TailwindCSS.
+## Outras seções comuns em perfis do GitHub
 
-### Contact
+🧠 Estou aprendendo - DevOps
 
-[![Static Badge](https://img.shields.io/badge/Thiago_Barbosa-0?style=social&logo=linkedin&logoColor=blue&labelColor=blue&color=blue)](https://www.linkedin.com/in/thiago-barbosa1999/)
+👯‍♀️ Procuro colaborar em - projetos
 
+💬 Me pergunte sobre - React.js, Next.js, Node.js ...
 
-[![Email](https://img.shields.io/badge/thiagon16@hotmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:thiagon16@hotmail.com)
-
-## 🛠 Tools and Technologies
-<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42px"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42px"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42px"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="42px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42px"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="42px"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42px"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42px" />
-<img src="https://seeklogo.com/images/F/fastify-logo-370DF51F2E-seeklogo.com.png" width="84px" />
-</div>
+📫 Como entrar em contato comigo:
+    
+- email: thiagon16@hotmail.com 
+- whatsapp: (22) 98852-3633
+- linkedin: https://www.linkedin.com/in/thiago-barbosa1999/
 
 
+
+
+
+
+## 🛠 Habilidades
+| Front-End         | Back-End |
+| :---------------- | :------ |
+| - HTML        |  - Node.js    |
+| - CSS        |   - Express.js   |
+| - Javascript    |  - Fastify.js  |
+| - Typescript  |  - Nest.js   |
+| - React  |  - Postgres   |
+| - TailwindCSS |  - SQL   |
+| - Styled-components  |  - Docker   |
+| - Next.js  |  - PrismaORM   |
+| - Design Systems  |  - SOLID   |
+| - Redux  |  - DDD   |
+| - Storybook  |  - Clean Architecture   |
+| - Git  |  - Testes unitários   |
+| - SEO  | Testes de integração e E2E   |
+|   | - Docker  |
+|   | - Knex.js  |
+|   | - Redis  |
+|   | - MongoDB  |
