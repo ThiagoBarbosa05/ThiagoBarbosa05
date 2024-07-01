@@ -13,7 +13,7 @@ Eu sou uma pessoa desenvolvedora full-stack com conhecimento sólido na stack ja
 
 ## Outras seções comuns em perfis do GitHub
 
-🧠 Estou aprendendo - DevOps
+🧠 Estou aprendendo - Java
 
 👯‍♀️ Procuro colaborar em - projetos
 
