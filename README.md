@@ -50,3 +50,5 @@ Eu sou uma pessoa desenvolvedora full-stack com conhecimento sólido na stack ja
 |   | - Knex.js  |
 |   | - Redis  |
 |   | - MongoDB  |
+|   | - Java  |
+|   | - Spring Boot  |
