@@ -22,3 +22,8 @@ Eu sou uma pessoa desenvolvedora full-stack com conhecimento sólido na stack ja
 - email: thiagon16@hotmail.com 
 - linkedin: https://www.linkedin.com/in/thiago-barbosa1999/
 
+<div align="left">
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBarbosa05&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+  
+ </div>
